@@ -1,2 +1,2 @@
 # Physics
-Store or all the useful physics programs for easy calculation
+Store of all the useful physics programs for easy calculation
